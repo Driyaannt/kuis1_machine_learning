@@ -1,4 +1,3 @@
-# kuis1_machine_learning
 # Kuis 1 Machine Learning
 Team 02 TI-3H
 
@@ -38,3 +37,5 @@ Team 02 TI-3H
   
   
 </table>
+
+Dosen Pengampu Bapak Afif Hendrawan
